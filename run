@@ -1,0 +1,2 @@
+#!/bin/sh -ue
+java -cp target/classes/ com.mycompany.app.App
